@@ -71,6 +71,11 @@ ai
 
 科技
 
+加密货币
+Bitcoin
+USDC
+USDT
+
 核能
 
 月球
